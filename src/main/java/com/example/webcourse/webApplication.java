@@ -1,13 +1,13 @@
-package com.example.isaac;
+package com.example.webcourse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IsaacApplication {
+public class webApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IsaacApplication.class, args);
+		SpringApplication.run(webApplication.class, args);
 	}
 
 }
